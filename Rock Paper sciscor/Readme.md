@@ -1,4 +1,4 @@
-you want to implement a "Rock, Paper, Scissors" game using PictoBlox. Here's a basic outline of how you can do that:
+**To implement a "Rock, Paper, Scissors" game using PictoBlox. Here's a basic outline of how you can do that:**
 
 Setup: Open PictoBlox and create a new project.
 
