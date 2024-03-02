@@ -1,5 +1,5 @@
-****To implement face detection using PictoBlox, follow these steps:
-****
+**To implement face detection using PictoBlox, follow these steps:
+**
 1. Open PictoBlox software.
 2. Create a new project.
 3. Add the camera extension to the project.
